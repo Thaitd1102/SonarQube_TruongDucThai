@@ -1,0 +1,13 @@
+# Ignore build output
+target/
+.scannerwork/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# SonarQube
+.sonar/
